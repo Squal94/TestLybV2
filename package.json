@@ -11,14 +11,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Squal94/Khadir_Lounis_Projet_14_NpmLibV3_122022.git"
+    "url": "git+https://github.com/Squal94/TestLybV2.git"
   },
   "author": "Khadir L",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Squal94/Khadir_Lounis_Projet_14_NpmLibV3_122022/issues"
+    "url": "https://github.com/Squal94/TestLybV2/issues"
   },
-  "homepage": "https://github.com/Squal94/Khadir_Lounis_Projet_14_NpmLibV3_122022#readme",
+  "homepage": "https://github.com/Squal94/TestLybV2#readme",
   "peerDependencies": {
     "react": "^18.2.0"
   },
