@@ -3,7 +3,7 @@ import arrow from "./angle-arrow-down.png";
 // import styled from "styled-components";
 // import PropTypes from "prop-types";
 
-const SelectItem = ([...props]) => {
+const SelectItem = (props) => {
   const [option, setOption] = useState("");
   const [selected, setSelected] = useState(false);
 
